@@ -1,6 +1,6 @@
 package com.solbeg.andruhovich.core;
 
-import com.solbeg.andruhovich.util.StringUtils;
+import com.solbeg.andruhovich.stringUtils.StringUtils;
 
 import java.util.Arrays;
 import java.util.HashSet;
